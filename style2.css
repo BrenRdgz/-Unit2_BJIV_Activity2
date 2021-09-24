@@ -1,0 +1,32 @@
+label{
+    font-size: larger;
+}
+button{
+    border-radius: 8px;
+    font-size: 20px;
+    width: 250px;
+    text-align: center;
+}
+input[type = text]{
+    width: 250px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid blueviolet;
+    font-size: larger;
+}
+.btn1{
+    background-color: darkorchid;
+}
+
+.btn2{
+    background-color: hotpink;
+}
+.btn3{
+    background-color: lightskyblue;
+}
+.btn4{
+    background-color: mediumspringgreen;
+}
+.btn5{
+    background-color: yellow;
+}
